@@ -2,7 +2,7 @@ import React, {Fragment, useEffect} from 'react';
 import {Link, Outlet} from "react-router-dom";
 import './navigation.scss';
 
-
+//todo make other design for current page button
 const Navigation = () => {
 
     return (

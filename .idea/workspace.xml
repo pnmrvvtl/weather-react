@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a117d04-faad-4a7e-a17f-c72624ce6b49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/routes/astronomy-data/astronomy-data.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/currentweather/currentweather.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/forecast/forecast.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/locationpicker/locationpicker.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/log-in/login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weather-api-utils/WeatherApiFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/citycontext/citycontext.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/amcharts_weather_icons_1.0.0.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/forecast/forecast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/forecast/forecast.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/locationpicker/locationpicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/locationpicker/locationpicker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/navigation/navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather-api-utils/WeatherApiFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather-api-utils/WeatherApiFunctions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/projects/projects_react",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/projects/projects_react&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 222.2964.53\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\projects\projects_react\weather-react\src\routes\navigation" />
@@ -77,7 +70,9 @@
       <updated>1654897895958</updated>
       <workItem from="1654897898526" duration="434000" />
       <workItem from="1654938926494" duration="108000" />
-      <workItem from="1654952205929" duration="13742000" />
+      <workItem from="1654952205929" duration="14958000" />
+      <workItem from="1655476318946" duration="4669000" />
+      <workItem from="1655537434582" duration="17841000" />
     </task>
     <servers />
   </component>
