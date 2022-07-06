@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a117d04-faad-4a7e-a17f-c72624ce6b49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/locationSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/current-day/current-day.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/current-day/current-day.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/forecast-day/forecast-day.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/forecast-day/forecast-day.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/forecast/forecast.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/citycontext/citycontext.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/forecast/forecast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/forecast/forecast.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/locationpicker/locationpicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/locationpicker/locationpicker.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/navigation/navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weather-api-utils/WeatherApiFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/weather-api-utils/WeatherApiFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/navigation/navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\projects_react\weather-react\src\components\forecast-day" />
+      <recent name="E:\projects\projects_react\weather-react\src\components\current-day" />
       <recent name="E:\projects\projects_react\weather-react\src\routes\navigation" />
       <recent name="E:\projects\projects_react\weather-react\src\routes\locationpicker" />
     </key>
@@ -81,7 +83,7 @@
       <workItem from="1655476318946" duration="4669000" />
       <workItem from="1655537434582" duration="18058000" />
       <workItem from="1657009752273" duration="10801000" />
-      <workItem from="1657096097481" duration="2921000" />
+      <workItem from="1657096097481" duration="14133000" />
     </task>
     <servers />
   </component>
