@@ -1,4 +1,4 @@
-import React, {Fragment, useEffect} from 'react';
+import React, {Fragment} from 'react';
 import {Link, Outlet} from "react-router-dom";
 import './navigation.scss';
 

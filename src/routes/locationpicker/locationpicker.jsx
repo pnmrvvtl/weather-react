@@ -1,20 +1,23 @@
-import React, {useContext, useState} from 'react';
-import {CityContext} from "../../contexts/citycontext/citycontext";
+import React from 'react';
+import {useDispatch} from 'react-redux'
+import {fetchForecast} from '../../redux/locationSlice'
 import {useNavigate} from "react-router-dom";
 
 const LocationPicker = () => {
-    const { setCity } = useContext(CityContext);
+
+    const dispatch = useDispatch();
     const navigate = useNavigate();
+    const locationField = React.useRef(null);
 
     const handleClick = () => {
-        setCity(document.querySelector('#city-name').value)
+        dispatch(fetchForecast(locationField.current.value))
         navigate('/forecast');
     }
 
     return (
         <div>
             <label>ENTER YOUR CITY:</label>
-            <input id='city-name' type='text'/>
+            <input ref={locationField} id='city-name' type='text'/>
             <button onClick={handleClick}>GO</button>
         </div>
     );
